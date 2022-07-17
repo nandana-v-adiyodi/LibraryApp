@@ -1,0 +1,22 @@
+
+
+ img{
+    position: relative;
+     width: 100%; 
+      min-height:100vh;
+      background-attachment: fixed;
+      background-size: cover;
+      background-repeat: no-repeat;
+ 
+   }  
+   form{
+     position: absolute;
+     top: 200px;
+     margin-left: 380px;
+     width: 450px;
+     box-sizing: border-box;
+     border-radius: 8px;
+     padding: 20px 40px;
+     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+     background-color:rgb(153, 218, 218) ; 
+   }
